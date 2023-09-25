@@ -1,7 +1,7 @@
 #### quick analysis of the data from the terminal to have a first insight
 
 # import pandas
->>> import pandas as pd
+`>>> import pandas as pd`
 
 # load the species_info data
 >>> species = pd.read_csv("species_info.csv")
